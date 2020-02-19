@@ -9,7 +9,7 @@
 
 Please type in "**I CONFIRM**" below if you confirm the sentences above or otherwise make some funny remark:
 
-*<type_in_here>*
+*I CONFIRM*
 
 Thanks!
 --
